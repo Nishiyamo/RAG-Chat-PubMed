@@ -1,10 +1,10 @@
-# Rag Chat Pub Med Mixtral
+# Rag Chat PubMed Mixtral
 
 ## Description
-Rag Chat Pub Med Mixtral is an AI-powered chat application that allows you to access and explore different publications from PubMed. Whether you're conducting research or looking to enhance your knowledge, this chat application provides a convenient way to access and analyze articles.
+Rag Chat PubMed Mixtral is an AI-powered chat application that allows you to access and explore different publications from PubMed. Whether you're conducting research or looking to enhance your knowledge, this chat application provides a convenient way to access and analyze articles.
 
 ## Installation
-To install Rag Chat Pub Med Mixtral, follow these steps:
+To install Rag Chat PubMed Mixtral, follow these steps:
 
 1. Make sure you have Python and pip installed on your system.
 2. Clone this repository to your local machine.
@@ -15,10 +15,10 @@ To install Rag Chat Pub Med Mixtral, follow these steps:
     ```
 
 ## How It Works
-Rag Chat Pub Med Mixtral utilizes AI algorithms to provide a seamless chat experience for accessing PubMed publications. The application leverages natural language processing techniques to understand user queries and retrieve relevant articles from the PubMed database. Users can interact with the chatbot by sending queries or commands, and the chatbot will respond with the requested information.
+Rag Chat PubMed Mixtral utilizes AI algorithms to provide a seamless chat experience for accessing PubMed publications. The application leverages natural language processing techniques to understand user queries and retrieve relevant articles from the PubMed database. Users can interact with the chatbot by sending queries or commands, and the chatbot will respond with the requested information.
 
 ## Usage
-To use Rag Chat Pub Med Mixtral, follow these steps:
+To use Rag Chat PubMed Mixtral, follow these steps:
 
 1. Run the following command to start the application:
     ```shell
@@ -31,8 +31,5 @@ To use Rag Chat Pub Med Mixtral, follow these steps:
 ## License
 This project is licensed under the [MIT License](./license).
 
-## Contributing
-Contributions are welcome! If you'd like to contribute to Rag Chat Pub Med Mixtral, please follow the guidelines outlined in [CONTRIBUTING.md](CONTRIBUTING.md).
-
 ## Contact
-If you have any questions or suggestions, feel free to reach out to us at [email@example.com](mailto:email@example.com).
+If you have any questions or suggestions, feel free to reach out to us at [ivanlmediavilla@gmail.com](mailto:ivanlmediavilla@gmail.com).
