@@ -1,10 +1,10 @@
-# Rag Chat PubMed Mixtral
+# Rag Chat PubMed
 
 ## Description
-Rag Chat PubMed Mixtral is an AI-powered chat application that allows you to access and explore different publications from PubMed. Whether you're conducting research or looking to enhance your knowledge, this chat application provides a convenient way to access and analyze articles.
+Rag Chat PubMed is an AI-powered chat application that allows you to access and explore different publications from PubMed. Whether you're conducting research or looking to enhance your knowledge, this chat application provides a convenient way to access and analyze articles.
 
 ## Installation
-To install Rag Chat PubMed Mixtral, follow these steps:
+To install Rag Chat PubMed , follow these steps:
 
 1. Make sure you have Python and pip installed on your system.
 2. Clone this repository to your local machine.
@@ -15,10 +15,10 @@ To install Rag Chat PubMed Mixtral, follow these steps:
     ```
 
 ## How It Works
-Rag Chat PubMed Mixtral utilizes AI algorithms to provide a seamless chat experience for accessing PubMed publications. The application leverages natural language processing techniques to understand user queries and retrieve relevant articles from the PubMed database. Users can interact with the chatbot by sending queries or commands, and the chatbot will respond with the requested information.
+Rag Chat PubMed utilizes AI algorithms to provide a seamless chat experience for accessing PubMed publications. The application leverages natural language processing techniques to understand user queries and retrieve relevant articles from the PubMed database. Users can interact with the chatbot by sending queries or commands, and the chatbot will respond with the requested information.
 
 ## Usage
-To use Rag Chat PubMed Mixtral, follow these steps:
+To use Rag Chat PubMed, follow these steps:
 
 1. Run the following command to start the application:
     ```shell
