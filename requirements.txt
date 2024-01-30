@@ -3,3 +3,7 @@ huggingface-hub
 streamlit
 deep-translator
 langdetect
+python-dotenv
+PyPDF2
+openai
+fastapi
