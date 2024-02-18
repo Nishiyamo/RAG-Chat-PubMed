@@ -9,4 +9,7 @@ def metadata_func(record: dict, metadata: dict) -> dict:
 
     return metadata
 
+
+# Create a new loader, we should pass to him the query and the maximum number of documents to load
+# TODO: Change the query to a more specific one and also use it inside functions
 PubmedLoader()
